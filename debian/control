@@ -1,0 +1,16 @@
+Source: git-buildpackage-scripts
+Section: devel
+Priority: extra
+Maintainer: Marcin Antczak <marcin.antczak@gmail.com>
+Build-Depends: debhelper (>= 8.0.0), git, git-buildpackage
+Standards-Version: 3.9.2
+Homepage: http://neutrico.pl
+Vcs-Git: ssh://git@github.com/marcinant/deb-git-buildpackage-scripts.git
+Vcs-Browser: https://github.com/marcinant/deb-git-buildpackage-scripts
+
+Package: git-buildpackage-scripts
+Architecture: all
+Depends: ${misc:Depends}
+Description: Scripts for git-buildpackage
+ These scripts enables maintaining packages for multiple 
+ debian based distributions with single git repo in an easy way.
