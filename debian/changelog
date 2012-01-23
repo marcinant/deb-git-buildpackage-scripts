@@ -1,3 +1,9 @@
+git-buildpackage-scripts (0-15~97ee5d9-1~unstable1) unstable; urgency=low
+
+  * New upstream version import
+
+ -- Marcin Antczak <marcin.antczak@gmail.com>  Mon, 23 Jan 2012 23:33:21 +0100
+
 git-buildpackage-scripts (0-1) unstable; urgency=low
 
   * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
