@@ -1,5 +1,5 @@
-git-buildpackage-scripts (0-1) unstable; urgency=low
+git-buildpackage-scripts (0-0~oneiric1) oneiric; urgency=low
 
-  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+  * Initial release
 
- -- Marcin Antczak <marcin.antczak@gmail.com>  Mon, 23 Jan 2012 23:32:33 +0100
+ -- Marcin Antczak <marcin.antczak@gmail.com>  Mon, 23 Jan 2012 23:32:35 +0100
