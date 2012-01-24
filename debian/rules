@@ -11,3 +11,7 @@
 
 %:
 	dh $@ 
+
+override_dh_fixperms:
+	dh_fixperms
+	chmod a+x etc/pbuilder/hook.d/*
