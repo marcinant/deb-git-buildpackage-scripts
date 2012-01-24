@@ -1,6 +1,8 @@
 git-buildpackage-scripts for Debian
 -----------------------------------
 
-<possible notes regarding this package - if none, delete this file>
+ Create repo on github first as deb-<packagename>.
+ Then create properties file, run git-init-deb script and
+ after initial build - run git-build-deb
 
  -- Marcin Antczak <marcin.antczak@gmail.com>  Mon, 23 Jan 2012 23:32:33 +0100
