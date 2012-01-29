@@ -1,4 +1,5 @@
 git-build-deb			usr/bin
 git-init-deb			usr/bin
 D70aptupdate			etc/pbuilder/hook.d
-git-buildpackage-scripts.conf	etc/pbuilder
+debian.conf			etc/pbuilder
+ubuntu.conf			etc/pbuilder
