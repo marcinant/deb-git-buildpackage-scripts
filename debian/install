@@ -3,3 +3,4 @@ git-init-deb			usr/bin
 D70aptupdate			etc/pbuilder/hook.d
 debian.conf			etc/pbuilder
 ubuntu.conf			etc/pbuilder
+master-keyring.gpg		usr/share/keyrings/neutrico
