@@ -1,3 +1,9 @@
+git-buildpackage-scripts (0-20~3cee493-1~unstable2) unstable; urgency=low
+
+  * New build
+
+ -- Marcin Antczak <marcin.antczak@gmail.com>  Sat, 11 Feb 2012 02:17:47 +0100
+
 git-buildpackage-scripts (0-20~3cee493-1~unstable1) unstable; urgency=low
 
   * New upstream version import
