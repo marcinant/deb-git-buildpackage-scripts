@@ -10,7 +10,7 @@ Vcs-Browser: https://github.com/marcinant/deb-git-buildpackage-scripts
 
 Package: git-buildpackage-scripts
 Architecture: all
-Depends: ${misc:Depends}, git-buildpackage, distro-info, debian-archive-keyring, reprepro-conf
+Depends: ${misc:Depends}, git-buildpackage, distro-info, debian-archive-keyring, reprepro-conf, dh-make
 Description: Scripts for git-buildpackage
  These scripts enables maintaining packages for multiple 
  debian based distributions with single git repo in an easy way.
