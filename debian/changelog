@@ -1,3 +1,9 @@
+git-buildpackage-scripts (0-20~3cee493-1~precise1) precise; urgency=low
+
+  * New upstream version import
+
+ -- Marcin Antczak <marcin.antczak@gmail.com>  Sat, 11 Feb 2012 02:12:56 +0100
+
 git-buildpackage-scripts (0-19~ddd59f8-1~precise2) precise; urgency=low
 
   * New build
