@@ -1,3 +1,9 @@
+git-buildpackage-scripts (0-21~2f27a5e-1~oneiric1) oneiric; urgency=low
+
+  * New upstream version import
+
+ -- Marcin Antczak <marcin.antczak@gmail.com>  Sun, 12 Feb 2012 17:32:35 +0100
+
 git-buildpackage-scripts (2.1.1-1~oneiric1) oneiric; urgency=low
 
   * New upstream version import
